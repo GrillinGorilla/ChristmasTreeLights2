@@ -167,19 +167,19 @@ void handleRoot() {
     <h1>Christmas Tree Lights</h1>\
     <p>Uptime: %02d:%02d:%02d</p>\
     <form action=\"Test\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Test\" class='button'> </form>\
-    <form action=\"Fade\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Fade Through Colors\" class='button'> </form>\
-    <form action=\"White\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"White\" class='button'> </form>\
-    <form action=\"Blue\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Color Select\" class='button'> </form>\
-    <form action=\"Bright\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"High Brightness\" class='button'> </form>\
-    <form action=\"Medium\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Medium Brightness\" class='button'> </form>\
-    <form action=\"Dim\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Low Brightness\" class='button'> </form>\
+    <form action=\"Fade\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Fade Through Colors WORKS\" class='button'> </form>\
+    <form action=\"White\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"White WORKS\" class='button'> </form>\
+    <form action=\"Blue\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Color Select WORKS\" class='button'> </form>\
+    <form action=\"Bright\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"High Brightness WORKS\" class='button'> </form>\
+    <form action=\"Medium\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Medium Brightness WORKS\" class='button'> </form>\
+    <form action=\"Dim\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Low Brightness WORKS\" class='button'> </form>\
     <form action=\"OFF\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"OFF/Clear\" class='button'> </form>\
     <form action=\"Rainbow\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Halloween Twinkle\" class='button'> </form>\
-    <form action=\"Test2\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Rainbow 30 (aka Test2)\" class='button'> </form>\
+    <form action=\"Test2\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Rainbow 30 (aka Test2) WORKS\" class='button'> </form>\
     <form action=\"Reg\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Regular\" class='button'> </form>\
-    <form action=\"13\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Rainbow 10\" class='button'> </form>\
-    <form action=\"14\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Rainbow 1\" class='button'> </form>\
-    <form action=\"15\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Fade Fast\" class='button'> </form>\
+    <form action=\"13\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Rainbow 10 WORKS\" class='button'> </form>\
+    <form action=\"14\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Rainbow 1 WORKS\" class='button'> </form>\
+    <form action=\"15\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Fade Fast WORKS\" class='button'> </form>\
     <form action=\"16\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Red\" class='button'> </form>\
     <form action=\"17\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Green\" class='button'> </form>\
     <form action=\"18\" method=\"GET\" > <INPUT TYPE=\"submit\" VALUE=\"Clear\" class='button'> </form>\
